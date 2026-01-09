@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&text=PR3D4T0&fontSize=60&fontAlignY=40&desc=BREACH%20PROTOCOL%20ACTIVE&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff0000,100:000000&height=180&section=header&text=PR3D4T0&fontSize=65&fontColor=ff0000&animation=fadeIn&desc=CYBER%20×%20EDITOR%20×%20GAME%20DEV%20×%20WEB%20DESIGNER&descAlign=50&descAlignY=75"/>
 
 <br>
 
 ```diff
-- ⚠️ WARNING: UNSTABLE CREATIVE ENTITY DETECTED
-+ CYBER × EDITING × GAME DEV × WEB × DESIGN
-+ THIS PROFILE IS NOT SAFE FOR NORMAL THINKERS
+- ACCESS RESTRICTED
++ SYSTEM BREACHED
++ MULTI-DISCIPLINE ENTITY DETECTED
 
 <br><br>
 
