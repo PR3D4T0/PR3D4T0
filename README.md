@@ -8,9 +8,26 @@
 
 "𝗜 𝗱𝗼𝗻’𝘁 𝗰𝗼𝗱𝗲 𝗳𝗼𝗿 𝗳𝘂𝗻. 𝗜 𝗰𝗼𝗱𝗲 𝘁𝗼 𝗱𝗼𝗺𝗶𝗻𝗮𝘁𝗲 𝘀𝘆𝘀𝘁𝗲𝗺𝘀."
 
-### 🧬 CORE STACK
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-REDZONE?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-OVERRIDE-black?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Hacker-black?style=for-the-badge&logo=linux)
+<br><br>
 
+## ⚔️ SKILL ARSENAL
+
+### 🧠 LOGIC
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ff0000)
+![Game Logic](https://img.shields.io/badge/Game%20Logic-REDZONE?style=for-the-badge)
+
+### 🎮 INTERACTION
+![Game Dev](https://img.shields.io/badge/Game%20Development-black?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-DESIGN-black?style=for-the-badge)
+
+### 🎬 VISUAL WARFARE
+![Editing](https://img.shields.io/badge/Editing-AGGRESSIVE-black?style=for-the-badge)
+![Motion](https://img.shields.io/badge/Motion-DISRUPTION-black?style=for-the-badge)
+
+### 🌐 WEB
+![Web Design](https://img.shields.io/badge/Web-Architecture-black?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-CREATIVE-black?style=for-the-badge)
+
+### ☠️ CYBER
+![Linux](https://img.shields.io/badge/Linux-Hacker-black?style=for-the-badge&logo=linux)
+![Security](https://img.shields.io/badge/Cyber-MINDSET-black?style=for-the-badge)
