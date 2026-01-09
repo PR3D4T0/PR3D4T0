@@ -31,3 +31,11 @@
 ### ☠️ CYBER
 ![Linux](https://img.shields.io/badge/Linux-Hacker-black?style=for-the-badge&logo=linux)
 ![Security](https://img.shields.io/badge/Cyber-MINDSET-black?style=for-the-badge)
+
+<br><br>
+
+## 📊 SYSTEM LOAD
+
+<img src="https://github-readme-stats.vercel.app/api?username=PR3D4T0&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PR3D4T0&theme=radical&hide_border=true"/>
